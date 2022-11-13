@@ -9,3 +9,4 @@
 
 ## Year 2
 - [MA2032 - Vector Calculus](https://github.com/ateben/University-Notes/tree/main/MA2032%20-%20Vector%20Calculus)
+- [MA2132 - Advanced Linear Algebra](https://github.com/ateben/University-Notes/tree/main/MA2132%20-%20Advanced%20Linear%20Algebra)
