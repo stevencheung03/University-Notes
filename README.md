@@ -12,5 +12,6 @@ These are the modules that I had taken, split into the different years.
 ## Year 2 (22/23)
 - [MA2032 - Vector Calculus](https://github.com/ateben/University-Notes/tree/main/MA2032%20-%20Vector%20Calculus)
 - [MA2132 - Advanced Linear Algebra](https://github.com/ateben/University-Notes/tree/main/MA2132%20-%20Advanced%20Linear%20Algebra)
+- [MA2510 - Investigations in Mathematics (Group: To Infinity and Beyond)](https://github.com/stevencheung03/University-Notes/tree/main/MA2510%20-%20Investigations%20in%20Mathematics)
 - [MA2133 - Algebra](https://github.com/stevencheung03/University-Notes/tree/main/MA2133%20-%20Algebra)
 - [MA2021 - Differential Equations and Dynamics](https://github.com/stevencheung03/University-Notes/tree/main/MA2021%20-%20Differential%20Equations%20and%20Dynamics)
